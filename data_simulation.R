@@ -1,3 +1,5 @@
+# Yifan Zhou
+
 # Generate 10000*6 matrix for X (N(0,1) distribution)
 m=data.frame(matrix(rnorm(10000*6),10000,6))
 
